@@ -11,3 +11,5 @@ I enjoy diving deeper into coding projects, often experimenting with Arduino and
 I am open to new opportunities for long-term professional development and growth. 
 
 My CV is available [here](https://github.com/milangrahovac/milangrahovac/blob/main/Milan_Grahovac_CV.pdf).
+
+sad
